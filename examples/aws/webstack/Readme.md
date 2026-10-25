@@ -6,7 +6,7 @@ three other RGs: `WebApp`, `S3Bucket`, and `PodIdentity`
 ![Netsted RGD Instance](../../../images/architecture-diagrams/kro-WebStack.png)
 _Figure 1: Nested RGD Example_
 
-### Create ResourceGraphDefinitions
+### Create ResourceGraphDefinitions - OmSai Ram Test
 
 Change directory to `examples`:
 
